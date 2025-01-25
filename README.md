@@ -1,6 +1,6 @@
 # Hey There 👋 I'm Curie
 
-👀 I’m interested in **reading**, **diving**, and **exploring new things**.
+👀 I’m interested in **reading**, **yoga**, and **exploring new things**.
 
 ✨ Currently, I’m working with **development tools** like:
 - React.js
