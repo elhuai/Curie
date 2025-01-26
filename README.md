@@ -7,14 +7,13 @@
 - Python
 - Node.js
 - Bootstrap 5
-- Next.js
-
+- CSS
 
 🌱 I’m currently learning **JAVA** to expand my coding skills.
 
 📫 You can reach me by emailing **[el.huai97@gmail.com](mailto:el.huai97@gmail.com)**.
 
-💞️ If you're curious to learn more about me, feel free to visit my blog! I recently started writing about my **coding journey** and **learning experiences**.
+💞️ If you're curious to learn more about me, feel free to contant me
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
